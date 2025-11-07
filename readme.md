@@ -4,6 +4,9 @@ A small terminal markdown editor + preview built with Textual and Rich.
 
 Quick, minimal TUI for editing Markdown in the terminal and seeing a live preview.
 
+<img width="1058" height="885" alt="image" src="https://github.com/user-attachments/assets/7f09bf2d-6f98-4355-ae67-7cf1530ea2ac" />
+
+
 ---
 
 ## Requirements
