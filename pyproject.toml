@@ -1,0 +1,9 @@
+[project]
+name = "markdown-tui"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "rich>=14.2.0",
+    "textual>=6.5.0",
+]
